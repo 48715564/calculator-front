@@ -266,7 +266,7 @@ class Detail extends Component {
               extra="请选择到期日期"
               format="YYYY-MM-DD"
             >
-              <CustomChildren style={{ marginLeft: 4 }} />
+              <CustomChildren style={{ marginLeft:4}} />
             </DatePicker>
           </View>
           <View
